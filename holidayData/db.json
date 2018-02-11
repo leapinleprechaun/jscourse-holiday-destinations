@@ -1,0 +1,24 @@
+{
+  "holidays": [
+    {
+      "id": 1,
+      "destination": "Los Angeles",
+      "sites": "Kodak Theatre"
+    },
+    {
+      "destination": "Toronto",
+      "sites": "Grand Canyon",
+      "id": 4
+    },
+    {
+      "destination": "japan",
+      "sites": "japan",
+      "id": 5
+    },
+    {
+      "destination": "Cork",
+      "sites": "Water",
+      "id": 9
+    }
+  ]
+}
